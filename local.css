@@ -1,0 +1,47 @@
+/* #clockcontainer {
+    background-color: red;
+    height: 40vw;
+    width: 40vw;
+    margin: 25% auto;
+    background: url(jahid7.jfif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+#hour,
+#minute,
+#second {
+    position: absolute;
+    background-color: black;
+    border-radius: 10px;
+
+}
+
+#hour {
+
+    width: 2%;
+    height: 19%;
+    left: 48.4%;
+    top: 21%;
+    transform-origin: bottom;
+}
+
+#minute {
+    width: 1.4%;
+    height: 21%;
+    left: 48.4%;
+    top: 19%;
+    transform-origin: bottom;
+    background-color: rgb(228, 20, 20);
+}
+
+#second {
+    width: 1%;
+    height: 24%;
+    left: 48.8%;
+    top: 16%;
+    transform-origin: bottom;
+
+} */
